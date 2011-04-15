@@ -1,3 +1,7 @@
+/**
+ *  test android hallo welt - und git gui from eclipse
+ */
+
 package com.inselberg.halloandroid;
 
 import android.app.Activity;

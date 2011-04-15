@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">hallo nur hallo mehr nicht nein auch nicht welt</string>
+    <string name="hello">hallo nur hallo mehr nicht\n nein auch nicht welt\n nanananannananan\nBATMAN!</string>
     <string name="app_name">HalloAndroid</string>
 </resources>
