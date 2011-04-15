@@ -1,5 +1,6 @@
 /**
  *  test android hallo welt - und git gui from eclipse
+ *  autotest :)
  */
 
 package com.inselberg.halloandroid;
